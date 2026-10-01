@@ -1,0 +1,16 @@
+# Backend
+backend/.venv/
+backend/.env
+backend/__pycache__/
+backend/generated_audio/
+backend/app.db
+backend/logs/
+*.pyc
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# OS
+.DS_Store
+.env
